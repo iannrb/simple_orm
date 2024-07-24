@@ -4,4 +4,4 @@ Este projeto é um exemplo de um ORM simples, que faz a persistência de objetos
 ## Requisitos
 - Instalar e configurar o Postgres na sua máquina.
 - No terminal usar o comando: pip install -r requirements.txt
-- Alterar as configurações do banco de dados para as suas configuraçõe.
+- Alterar as informações do banco de dados para o que foi criado no seu usuário do Postgres.
